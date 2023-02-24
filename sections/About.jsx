@@ -22,19 +22,13 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className='mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white'
       >
-        <span className='font-extrabold text-white'>Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
-        <span className='font-extrabold text-white'>
-          madness of the metaverse
-        </span>{' '}
-        of today, using only{' '}
-        <span className='font-extrabold text-white'>VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className='font-extrabold text-white'>explore</span> the madness
-        of the metaverse by scrolling down
+        <span className='font-extrabold text-white'>Developers Media</span> a
+        unique platform designed for developers by developers! At Developers
+        Media, we provide a space for developers to interact with other
+        developers directly, sell their services, showcase their skills and use
+        the platform as their social media and get hired by companies.
+        <span className='font-extrabold text-white'> Explore</span> the world of
+        the developers by scrolling down
       </motion.p>
 
       <motion.img

@@ -24,8 +24,8 @@ const Explore = () => {
         <TitleText
           title={
             <>
-              Choose the world you want <br className='md:block hidden' /> to
-              explore
+              Explore the features <br className='md:block hidden' /> which you
+              was looking for
             </>
           }
           textStyles='text-center'
